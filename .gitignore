@@ -1,0 +1,7 @@
+*.zip
+*.mp4
+*.pt
+f1-dataset/*
+!f1-dataset/.gitkeep
+.ipynb_checkpoints/
+.DS_Store
