@@ -12,11 +12,15 @@ This dataset contains annotated images of F1 cars from the four teams from mainl
 
 Prediction of the base model:
 
-![before](path/to/original_image.jpg)
+![Uploading Screenshot 2025-12-30 at 15.41.56.png…]()
+![Uploading Screenshot 2025-12-30 at 15.42.35.png…]()
+![Uploading Screenshot 2025-12-30 at 15.42.44.png…]()
 
 Prediction of the trained model:
 
-![after](path/to/detected_image.jpg)
+![Uploading Screenshot 2025-12-30 at 15.29.17.png…]()
+![Uploading Screenshot 2025-12-30 at 15.30.37.png…]()
+
 
 ## Results
 
