@@ -12,15 +12,17 @@ This dataset contains annotated images of F1 cars from the four teams from mainl
 
 Prediction of the base model:
 
-![Uploading Screenshot 2025-12-30 at 15.41.56.png…]()
-![Uploading Screenshot 2025-12-30 at 15.42.35.png…]()
-![Uploading Screenshot 2025-12-30 at 15.42.44.png…]()
+<img width="1440" height="900" alt="Screenshot 2025-12-30 at 15 41 56" src="https://github.com/user-attachments/assets/96659601-6761-497e-8ada-db53ece93dd2" />
+
+<img width="1440" height="900" alt="Screenshot 2025-12-30 at 15 42 35" src="https://github.com/user-attachments/assets/8f3645a7-3fad-4fd6-83b0-7c4eac5a6a06" />
+
+<img width="1440" height="900" alt="Screenshot 2025-12-30 at 15 42 44" src="https://github.com/user-attachments/assets/7c58c398-0d79-4ec3-8871-9d1fcd4de87a" />
 
 Prediction of the trained model:
 
-![Uploading Screenshot 2025-12-30 at 15.29.17.png…]()
-![Uploading Screenshot 2025-12-30 at 15.30.37.png…]()
+<img width="1440" height="900" alt="Screenshot 2025-12-30 at 15 29 17" src="https://github.com/user-attachments/assets/38fa4c17-498d-4e53-ad6f-06b74e37c4d7" />
 
+<img width="1440" height="900" alt="Screenshot 2025-12-30 at 15 30 37" src="https://github.com/user-attachments/assets/afd3d8b0-d688-4c38-95a9-5cf12b8e8d7f" />
 
 ## Results
 
