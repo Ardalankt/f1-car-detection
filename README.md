@@ -12,14 +12,10 @@ This dataset contains annotated images of F1 cars from the four teams from mainl
 
 Prediction of the base model:
 
-**Before:**
-_Original image or video frame without annotations_
 ![before](path/to/original_image.jpg)
 
 Prediction of the trained model:
 
-**After Detection:**
-_Same image/video frame with detected cars highlighted_
 ![after](path/to/detected_image.jpg)
 
 ## Results
